@@ -1,0 +1,19 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "Node_Mongodb_Angular_ToDo_List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emazing1/ToDo-List.git"
+  },
+  "author": "Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emazing1/ToDo-List/issues"
+  },
+  "homepage": "https://github.com/Emazing1/ToDo-List#readme"
+}
